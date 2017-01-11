@@ -1,0 +1,3 @@
+ydays_homepage:
+    path:     /
+    defaults: { _controller: YdaysBundle:Default:index }
